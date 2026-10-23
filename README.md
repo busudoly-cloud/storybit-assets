@@ -1,0 +1,1 @@
+# storybit-assets
